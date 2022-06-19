@@ -2,4 +2,4 @@
 
 Language: Python
 
-IDE:Pycharm
+IDE: Pycharm
